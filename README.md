@@ -10,6 +10,9 @@ Put your photo in the `images/` folder with that exact filename and the placehol
 Search all `.html` files for `hello@theopenplate.in` and change it (header-free: it appears in each footer and in `contact.html`).
 The location text "Dombivali, Mumbai, Maharashtra" is in each footer and on `contact.html`.
 
+## Menu
+The menu comes from MENU.xlsx. Each category card uses `images/menu-<category>.jpg` (for example `menu-cookies.jpg`, `menu-tarts-and-pies.jpg`). To change items, edit the lists in `menu.html`.
+
 ## Colours
 Edit the `:root` variables at the top of `assets.css`.
 
