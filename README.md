@@ -7,7 +7,7 @@ Every image slot shows a gradient block with its filename (for example `images/h
 Put your photo in the `images/` folder with that exact filename and the placeholder is replaced automatically. Use JPG or WebP at about 1200px wide.
 
 ## Edit contact details
-Search all `.html` files for `hello@theopenplate.in` and change it (header-free: it appears in each footer and in `contact.html`).
+Search all `.html` files for `orders@theopenplate.in` and change it (header-free: it appears in each footer and in `contact.html`).
 The location text "Dombivali, Mumbai, Maharashtra" is in each footer and on `contact.html`.
 
 The home page hero shows a built-in pastry illustration until you add `images/hero-pastry-spread.jpg`. Use a photo of a styled spread of your own cakes, croissants and cupcakes.
